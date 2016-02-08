@@ -1,0 +1,14 @@
+layout_spectrum: 0.0734767
+color:
+  saturation: 0.5810743
+  lightness: 0.5376344
+  brandStrength: 0.8172043
+  brandColors:
+    - '#FFFFFF'
+    - '#271705'
+    - '#FCBC42'
+    - '#92A1A4'
+    - '#FA421F'
+  rhythmicContrast: 0.9978709
+typography_spectrum: 0.1666667
+name: Abundant Life
